@@ -12,3 +12,4 @@ Este proyecto es una aplicación web básica para la gestión de usuarios median
 Este proyecto forma parte de una práctica académica que busca consolidar conceptos clave en desarrollo web backend, incluyendo organización de carpetas, optimización visual y documentación estructurada.
 
 ## 📦 Estructura de Carpetas
+crud_usuarios/ ├── assets/ │ └── css/ ├── clases/ │ └── Usuario.php ├── db/ │ └── conexion.php ├── views/ │ ├── registro.php │ ├── listado.php │ └── editar.php └── index.php
